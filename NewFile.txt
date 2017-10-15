@@ -1,3 +1,7 @@
 Motherfucker vrachanski
+<<<<<<< HEAD
 
 We make same changes here!
+=======
+It's time to improve this shit here!!
+>>>>>>> Develop
