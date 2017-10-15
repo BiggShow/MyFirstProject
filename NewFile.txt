@@ -7,3 +7,6 @@ It's time to improve this shit here!!
 It's time for more chnages this thime we work with gitBash
 
 Make some changes
+
+New branch is here!
+
