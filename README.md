@@ -1,3 +1,5 @@
 # MyFirstProject
 
-We want to make a conflict!!
+Repo make for exercises
+
+We resove the conflict!!!
