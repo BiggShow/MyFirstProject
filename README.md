@@ -2,4 +2,4 @@
 
 Repo make for exercises
 
-We resove the conflict!!!
+Let's make a conflict!
